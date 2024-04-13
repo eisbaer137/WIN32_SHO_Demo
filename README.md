@@ -1,6 +1,6 @@
 # WIN32_SHO_Demo
 
-Demonstration of simple harmonic motion performed by a mass block and a sprint attached to it. Newton's equation of motion and Euler method were used
+Demonstration of simple harmonic motion performed by a mass block and a spring attached to it. Newton's equation of motion and Euler method were used
 
 This demo is built using Microsoft Visual Studio 2022 community version on Windows 10 home.
 
